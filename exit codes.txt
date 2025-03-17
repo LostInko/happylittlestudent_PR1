@@ -1,0 +1,25 @@
+-6 file caricaSave
+-5 file log
+-4 scrivo save
+-3 file carte non funge
+-2 file ostacolo non funge
+-1 file giocatori non funge
+1 contarighe minore uguale a 1
+2 vettore dinamico personaggio
+3 lista ostacolo
+4 lista carta
+5 lista giocatori
+6 malloc array interi
+7 nuovalista errore
+8 pesca carta scelta (giocatore null)
+9 copia carta scelta (giocatore null)
+10 malloc copia carta
+11 malloc lista aux giocatori (punteggi)
+12 ostacoloTerra è vuota (spostaostacolocoda)
+13 la carta da copiare non esiste
+14 listagiocatore da eliminare vuota
+15 posizioni uguali 
+16 le carte da scambiare non esistono
+17 nuovatesta giocatore save
+18 nuovatesta giocatore ostacolo
+19 nuovatesta giocatore carta
